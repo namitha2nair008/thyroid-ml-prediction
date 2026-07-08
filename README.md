@@ -68,6 +68,5 @@ references/
 
 ## Authors
 
-Namitha XXXXX
-
-Mentor: XXXXX
+Namitha Suresh
+Namritha Suresh
