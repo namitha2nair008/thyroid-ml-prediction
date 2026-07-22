@@ -67,6 +67,4 @@ references/
 ---
 
 ## Authors
-
-Namitha Suresh
 Namritha Suresh
